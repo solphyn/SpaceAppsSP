@@ -1,0 +1,25 @@
+{
+  "name": "spaceapps-hermes",
+  "version": "1.0.0",
+  "description": "Backend desenvolvido para hackthon da SpaceAppsSP 2019, Desafio Oceanos e Mare",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "spaceapps",
+    "nasa",
+    "hermes",
+    "equipe",
+    "poseidon"
+  ],
+  "author": "Diego Bispo",
+  "license": "ISC",
+  "dependencies": {
+    "mongoose": "^5.7.5",
+    "mongoose-string-query": "^0.2.7",
+    "npm": "^6.12.0",
+    "restify": "^8.4.0",
+    "restify-plugins": "^1.6.0"
+  }
+}
